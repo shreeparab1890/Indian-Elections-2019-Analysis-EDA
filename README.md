@@ -91,4 +91,38 @@ There are 2263 entries in the CSV file with 19 columns, the columns can be divid
 
 ## EDA (Data Analysis Results):
 Please Go thorugh the ipython file for more in detail analysis, below are some key Details:
+### Statewise distribution of the Constituencies all over India: (Chech the graph in the notebook)
+    UP has HIghest Constituencies i.e. 80, MH has 48 so on. 
+### Statewise distribution of voting percentage all over India: (Chech the graph in the notebook)
+    Lakshadweep has highest voting percentage i.e. 83.75
+### Constituency vs Statewise participation for the most contesting Political Parties (Chech the graph in the notebook)
+    BJP Contested on 420 Constituencies accross 33 states
+    INC Contested on 413 Constituencies accross 35 States 
+### Statewise report card for the Political Parties in India: (Chech the graph in the notebook)
+### Which party won the most constituencies: (Chech the graph in the notebook)
+    BJP won on 300 Seats
+    INC won on 52 Seats
+### Party Wise vote share: (Chech the graph in the notebook)
+    BJP got 38.5% vote share
+### What has been the general Win vs Loss relationship for the Parties:
+    BJP won 300 and lost on 120 Seats 
+    INC won 52 and lost on 361 Seats
+    DMK won has contested on 23 seats and won all
+### What is the Gender Ratio of the Contestants? Also the Gender Ratio of the Winners?
+    1760 Male candidates contested out of which 463 won
+    258 Male candidates contested out of which 76 won
+### Educational Qualification of our politicians: (Chech the graph in the notebook)
+    25 % are Post Graduate 
+    24 % are Graduate
+### What is the relationship of Age and Politics? (Chech the graph in the notebook)
+### What relation does the Politician category have with the election results? (Chech the graph in the notebook)
+### politicians and criminal cases: (Chech the graph in the notebook)
+### Candidate and Winner Assets: (Chech the graph in the notebook)
+    88.3% i.e. 475 MPs have assets in Crores
+    11.7% i.e. 63 Mps have assets in lakhs
+### Category wise Candidates:
+    General: 399
+    SC: 85
+    ST: 55
+ 
 
