@@ -1,10 +1,11 @@
 # Indian Elections 2019 Analysis(EDA)
 This ipython notebook is the <b>Exploratory data analysis (EDA)</b> of the <b>Indian Lok Sabha Elections 2019</b>. 
 The dataset used has been taken from Kaggle which was complied by scrapping the MyNeta.info maintained by the Association for Democratic Reforms and the website of Election Commission of India.  
-Dataset: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019">Indian Candidates for General Election 2019</a>
-You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/indian-elections-2019-analysis-eda">Indian Elections 2019 Analysis(EDA)</a>
+Dataset: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019">Indian Candidates for General Election 2019</a>  
 
-![India Elections 2019][election-jpg]
+You can follow the analysis on Kaggle at: <a href="https://www.kaggle.com/code/shrikrishnaparab/indian-elections-2019-analysis-eda">Indian Elections 2019 Analysis(EDA)</a>
+
+![India Elections 2019][election]
 
 ## Python Packeges Used:
  ![NumPy][numpy-image] ![Pandas][Pandas-image] ![Matplotlib][Matplotlib-image] ![Plotly][Plotly-image]
@@ -13,4 +14,4 @@ You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnap
 [Pandas-image]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Matplotlib-image]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [Plotly-image]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
-[election-jpg]: elections_2019.jpg
+[election]: elections_2019.jpg
