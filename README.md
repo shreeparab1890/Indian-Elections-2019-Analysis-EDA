@@ -39,3 +39,19 @@ Another important aspect of EDA is summarizing the data using statistical measur
 EDA can also include data cleaning and preprocessing, which is the process of identifying and correcting errors or inconsistencies in the data. This can include handling missing data, removing outliers, or transforming variables to make the data more suitable for analysis.
 
 Overall, EDA is a crucial step in the data analysis process, as it allows analysts to gain a deeper understanding of the data and identify any potential issues or limitations before proceeding with more advanced analysis. It also can also be a great way to find the insights that can guide the further analysis.
+
+## Indian Lok Sabha Elections:
+The Lok Sabha elections in India are held every five years to elect members of the lower house of India's bicameral parliament. These elections are conducted by the Election Commission of India, an independent body responsible for overseeing the conduct of all elections in the country.
+
+All citizens of India who are 18 years of age or older are eligible to vote in the Lok Sabha elections. The election process usually takes place over a period of several weeks, with polling held in different parts of the country on different days. The voter turnout in these elections is typically high, with a large percentage of eligible voters casting their ballots.
+
+The political parties and coalitions that win the most seats in the Lok Sabha are called upon to form the government. The leader of the party or coalition that wins the most seats is appointed as the Prime Minister of India.
+
+Latest elections were held in 2019 next general election is due to be held in 2024.
+
+## Lok Sabha Elections 2019
+The 17th Lok Sabha election was held in India in April-May 2019 to constitute the 17th Lok Sabha, or lower house of India's bicameral parliament.  
+
+The polling was conducted in seven phases, from April 11 to May 19, 2019. The results of the election were announced on May 23, 2019.  
+
+The Bharatiya Janata Party, led by Prime Minister Narendra Modi, won the election, with 303 of the 543 seats in the Lok Sabha. The Indian National Congress, the main opposition party, won 52 seats, while other parties and alliances won the remaining 188 seats.
