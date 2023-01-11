@@ -1,7 +1,8 @@
 # Indian Elections 2019 Analysis(EDA)
 This ipython notebook is the <b>Exploratory data analysis (EDA)</b> of the <b>Indian Lok Sabha Elections 2019</b>. 
-The dataset used has been taken from Kaggle which was complied by scrapping the MyNeta.info maintained by the Association for Democratic Reforms and the website of Election Commission of India.
-You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/indian-elections-2019-analysis-eda">kaggle</a>
+The dataset used has been taken from Kaggle which was complied by scrapping the MyNeta.info maintained by the Association for Democratic Reforms and the website of Election Commission of India.  
+Dataset: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019">Indian Candidates for General Election 2019</a>
+You can follow the analysis on <a href="https://www.kaggle.com/code/shrikrishnaparab/indian-elections-2019-analysis-eda">Indian Elections 2019 Analysis(EDA)</a>
 
 ![India Elections 2019][election-jpg]
 
