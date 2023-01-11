@@ -81,4 +81,14 @@ There are 2263 entries in the CSV file with 19 columns, the columns can be divid
     - TOTAL VOTES POLLED
     - TOTAL ELECTORS
 
+## Data Preprocessing:
+    - Data Cleaning
+      Checking For Null Values 
+      Checking For Duplicate Rows
+      Cleaning the Column Names
+      Clean the ASSETS and LIABILITIES column (Rs 30,99,414\n ~ 30 Lacs+ => 3099414)
+      Remove \n from the values of EDUCATION columns
+
+## EDA (Data Analysis Results):
+Please Go thorugh the ipython file for more in detail analysis, below are some key Details:
 
