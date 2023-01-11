@@ -5,7 +5,7 @@ Dataset: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidat
 
 You can follow the analysis on Kaggle at: <a href="https://www.kaggle.com/code/shrikrishnaparab/indian-elections-2019-analysis-eda">Indian Elections 2019 Analysis(EDA)</a>
 
-![India Elections 2019][election]
+![Indian Elections 2019](https://github.com/shreeparab1890/Indian-Elections-2019-Analysis-EDA-/blob/main/Election.webp)
 
 ## Python Packeges Used:
  ![NumPy][numpy-image] ![Pandas][Pandas-image] ![Matplotlib][Matplotlib-image] ![Plotly][Plotly-image]
@@ -14,4 +14,4 @@ You can follow the analysis on Kaggle at: <a href="https://www.kaggle.com/code/s
 [Pandas-image]: https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white
 [Matplotlib-image]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
 [Plotly-image]: https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white
-[election]: elections_2019.jpg
+
