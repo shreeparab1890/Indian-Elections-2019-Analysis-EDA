@@ -55,3 +55,30 @@ The 17th Lok Sabha election was held in India in April-May 2019 to constitute th
 The polling was conducted in seven phases, from April 11 to May 19, 2019. The results of the election were announced on May 23, 2019.  
 
 The Bharatiya Janata Party, led by Prime Minister Narendra Modi, won the election, with 303 of the 543 seats in the Lok Sabha. The Indian National Congress, the main opposition party, won 52 seats, while other parties and alliances won the remaining 188 seats.
+
+## About Data:
+This data was scraped from the website of myneta.info to get the personal information of each candidate (as per their own sworn affidavits) and the website of Election Commission of India to get the data about the votes received. Later, merged both this datasets to create this comprehensive dataset. Only the candidates who secured at least 1% of the total votes polled in their constituency have been included. You can find this data set at: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019">Link</a>
+There are 2263 entries in the CSV file with 19 columns, the columns can be divided as:
+### Basic Candidate Details:
+    - STATE                                     
+    - CONSTITUENCY                              
+    - NAME                                      
+    - WINNER                                    
+    - PARTY                                     
+    - SYMBOL                                    
+    - GENDER                                    
+    - CRIMINAL CASES
+    - AGE                                       
+    - CATEGORY                                  
+    - EDUCATION
+    - ASSETS                                    
+    - LIABILITIES                               
+### Voting Details:
+    - GENERAL VOTES 
+    - POSTAL VOTES 
+    - TOTAL VOTES 
+    - TOTAL ELECTORS
+    - TOTAL VOTES POLLED
+    - TOTAL ELECTORS
+
+
