@@ -57,7 +57,7 @@ The polling was conducted in seven phases, from April 11 to May 19, 2019. The re
 The Bharatiya Janata Party, led by Prime Minister Narendra Modi, won the election, with 303 of the 543 seats in the Lok Sabha. The Indian National Congress, the main opposition party, won 52 seats, while other parties and alliances won the remaining 188 seats.
 
 ## The Task:
-The task was to compile the election data from freely available data on internet, clean the data so that to run a analysis on the same and do analysis to get some of the importan insights from the Loksabha elections held in 2019. Further part of this is to use this data, analysis to predict the winning chance of a given candidate. 
+The task was to compile the election data from freely available data on the internet, clean the data so that to run an analysis on the same, and do an analysis to get some of the important insights from the Loksabha elections held in 2019. Further part of this is to use this data, and analysis to predict the winning chance of a given candidate.
 
 ## Data Analysis Process:
 ![data-analysis-steps](process.jpg)
