@@ -59,6 +59,10 @@ The Bharatiya Janata Party, led by Prime Minister Narendra Modi, won the electio
 ## The Task:
 The task was to compile the election data from freely available data on internet, clean the data so that to run a analysis on the same and do analysis to get some of the importan insights from the Loksabha elections held in 2019. Further part of this is to use this data, analysis to predict the winning chance of a given candidate. 
 
+## Data Analysis Process:
+![data-analysis-steps](process.jpg)
+
+
 ## About Data:
 This data was scraped from the website of myneta.info to get the personal information of each candidate (as per their own sworn affidavits) and the website of Election Commission of India to get the data about the votes received. Later, merged both this datasets to create this comprehensive dataset. Only the candidates who secured at least 1% of the total votes polled in their constituency have been included. You can find this data set at: <a href="https://www.kaggle.com/datasets/prakrutchauhan/indian-candidates-for-general-election-2019">Link</a>
 There are 2263 entries in the CSV file with 19 columns, the columns can be divided as:
